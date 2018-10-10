@@ -7,11 +7,11 @@ int main()
     char op;
     float num1, num2;
 
-    cout << "Enter operator: ";
-    cin >> op;
+    //cout << "Enter operator: ";
+    //cin >> op;
 
-    cout << "Enter two operands: ";
-    cin >> num1 >> num2;
+    cout << "Enter Stuff: ";
+    cin >> num1 >> op >> num2;
 
     switch(op)
     {
